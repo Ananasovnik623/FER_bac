@@ -1,3 +1,4 @@
 # Emotion Detection from Video Using Machine Learning
 
-[demo_app.pdf](https://github.com/user-attachments/files/20361959/demo_app.pdf)
+
+![page-400](https://github.com/user-attachments/assets/ffd1ad17-7719-48ea-8d89-b0fb70d7e89b)
